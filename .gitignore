@@ -1,0 +1,9 @@
+.vscode/
+
+addons/
+addons-server/
+maps/
+
+extracted/
+
+*.exe

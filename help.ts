@@ -1,0 +1,21 @@
+export const help_message = `GMOD Server Addon Preparer
+
+ARGUMENTS
+
+  -h --help\t\t DISPLAY THIS HELP MESSAGE
+  -v --version\t\t DISPLAYS THE CURRENT VERSION
+  -c --create-folders\t CREATES THE RAW FOLDERS FOR INPUT
+
+  --input.addon\t\t INPUT FOLDER PATH ADDONS
+  --input.addonssrv\t INPUT FOLDER PATH ADDONS SERVER
+  --input.maps\t\t INPUT FOLDER PATH MAPS
+
+  --output.addon\t OUTPUT FOLDER PATH ADDONS
+  --output.addonssrv\t OUTPUT FOLDER PATH ADDONS SERVER
+  --output.maps\t\t OUTPUT FOLDER PATH MAPS
+
+RUNNING THIS WITHOUT ANY OF THE ABOVE ARGUMENTS
+THAT ARENT ANY FOLDER PATH ARGUMENTS
+WILL GO START THE PREPARATION/EXTRACTION/ETC
+
+  ./gmod-addon-prep.exe`;

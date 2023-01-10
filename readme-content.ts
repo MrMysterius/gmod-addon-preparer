@@ -1,0 +1,5 @@
+export const text_addons = `THIS FOLDER IS FOR ADDONS THAT THE CLIENT AND SERVER HAVE TO LOAD / USE!!!\n`;
+
+export const text_addons_server = `THIS FOLDER IS FOR ADDONS THAT ONLY THE SERVER HAS TO LOAD / USE!!!\n`;
+
+export const text_maps = `THIS FOLDER IS FOR MAPS THAT SERVER HAS TO LOAD / USE AND PROVIDE VIA FASTDL!!!\n`;
