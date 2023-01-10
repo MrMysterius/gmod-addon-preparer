@@ -34,7 +34,7 @@ if (cmd.c || cmd["create-folders"]) {
 }
 
 if (cmd.v || cmd.version) {
-  console.log("GMOD Server Addon Preparer - v1.0.0");
+  console.log("GMOD Server Addon Preparer - v1.0.1");
   Deno.exit(0);
 }
 
